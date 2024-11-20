@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Laptop1",
+      "description": "A high performance laptop",
+      "price": 1200,
+      "quantity": 6,
+      "category": "Electronics",
+      "id": "1"
+    },
+    {
+      "id": "4",
+      "name": "Desk Chair",
+      "description": "Ergonomic chair for office",
+      "price": 250,
+      "quantity": 8,
+      "category": "Furniture"
+    },
+    {
+      "id": "5",
+      "name": "Book",
+      "description": "A fascinating novel",
+      "price": 20,
+      "quantity": 15,
+      "category": "Books"
+    }
+  ]
+}
